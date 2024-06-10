@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Имитация файловой системы
     const files = [
-        { name: 'file1.txt', isDir: false, path: 'uploads/file1.txt' },
+        { name: 'test.txt', isDir: false, path: 'uploads/test.txt' },
         { name: 'file2.jpg', isDir: false, path: 'uploads/file2.jpg' },
         { name: 'documents/', isDir: true, path: 'uploads/documents' },
     ];
